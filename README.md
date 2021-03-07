@@ -13,10 +13,12 @@ II. O projeto seguido pelo tutorial:
    
 III. Comandos importantes para iniciar projeto na Firebase: 
     ```
-    firebase login
-    firebase init // Invés de public, deixar ponto(.) e selecionar para hospedar, demais informações (No).
-    firebase deploy
+    * firebase login
+    * firebase init // Invés de public, deixar ponto(.) e selecionar para hospedar, demais informações (No).
+    * firebase deploy
     ```
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
