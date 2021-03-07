@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
+
+body {
+  font-family: Nunito, sans-serif;
+}
+
+#page {
+  overflow-x: hidden;
+}
+
+#page.toggled #sidebar {
+  margin-left: -15rem;
+}
+
+#sidebar {
+  min-height: 100vh;
+  margin-left: 0;
+  width: 15rem;
+  -webkit-transition: margin 0.25s ease-out;
+  -moz-transition: margin 0.25s ease-out;
+  -o-transition: margin 0.25s ease-out;
+  transition: margin 0.25s ease-out;
+}
+
+#sidebar header {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#page-content {
+  min-width: 0;
+  width: 100%;
+}
+
+#loginLogo img {
+  width: 115%;
+  height: auto;
+}
+
+#container-tasks {
+  justify-content: center;
+  text-align: center;
+  position: relative;/*relativo ao menu top-fixed, se eu tiro e rolo quando tiver mais tarefas o 'Minhas tarefas' some*/
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+#newItem {
+  justify-content: center;
+  text-align: center;
+}
+
+#letterColor a {
+  color: white;
+  background-color: rgb(0, 123, 255);
+}
+#letterColor a:hover {
+  color: black;
+}
+
+#justWhiteLetters {
+  color: white;
+}
+
+#indexTheme a {
+  background: #000;
+  color: blueviolet;
+}
+
+#cardii {
+  justify-content: center;
+  text-align: center;
+}
+
+#userInfo {
+  justify-content: center;
+  text-align: center;
+}
+
+/*#menu {
+  position: relative; 
+}*/
+
+/*
+Nao preciso fixar o menu por aqui o bootstrap faz isso
+https://getbootstrap.com.br/docs/4.1/components/navbar/
+<nav class="navbar fixed-top navbar-light bg-light">
+
+
+*/
