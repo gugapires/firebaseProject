@@ -12,7 +12,7 @@ II. O projeto seguido pelo tutorial:
    ```
    
 III. Comandos importantes para iniciar projeto na Firebase: 
-    * [firebase login]
+    *[firebase login]
     * firebase init // Invés de public, deixar ponto(.) e selecionar para hospedar, demais informações (No).
     * firebase deploy
     
