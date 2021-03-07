@@ -8,16 +8,21 @@ I. Basta acessar o seguinte endereço:
    ```
 II. O projeto seguido pelo tutorial:
    ```
-   Está na pasta versions em formato 'zip', possui a versão feita a partir do tutorial, antes do deploy e depois do deploy (com correções, inclusive um bug no menu pelo bootstrap@5.0.0-beta1).
+   Está na pasta versions em formato 'zip', possui a versão feita a partir do tutorial, antes do deploy 
+   e depois do deploy (com correções, inclusive um bug no menu pelo bootstrap@5.0.0-beta1).
    ```
    
 III. Comandos importantes para iniciar projeto na Firebase: 
-    *[firebase login]
-    * firebase init // Invés de public, deixar ponto(.) e selecionar para hospedar, demais informações (No).
-    * firebase deploy
-    
+   ```
+   firebase login
+   ```
+   ```
+   firebase init // Invés de public, deixar ponto(.) e selecionar para hospedar, demais informações (No).
+   ```
+   ```
+   firebase deploy
+   ``` 
+   
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
