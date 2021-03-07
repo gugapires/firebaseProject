@@ -8,8 +8,8 @@ I. Basta acessar o seguinte endereço:
    ```
 II. O projeto seguido pelo tutorial:
    ```
-   Está na pasta versions em formato 'zip', possui a versão feita a partir do tutorial, antes do deploy 
-   e depois do deploy (com correções, inclusive um bug no menu pelo bootstrap@5.0.0-beta1).
+   Está na pasta versions em formato 'zip', possui a versão feita a partir do tutorial, antes do deploy e depois do deploy
+   (versão corrigida, devido bug no menu do bootstrap@5.0.0-beta1, estou usando a mesma versão do professor).
    ```
    
 III. Comandos importantes para iniciar projeto na Firebase: 
