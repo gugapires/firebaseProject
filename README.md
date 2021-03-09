@@ -8,7 +8,11 @@ I. Basta acessar o seguinte endereço:
    ```
 II. Projeto conforme tutorial (YouTube):
    ```
-   Está na pasta 'Versions' em formato '.zip', possui a versão antes do deploy e depois do deploy na firebase
+	https://youtube.com/playlist?list=PL6u1VNwqZdJbJGQLQl6sq9aJFHrVkTR7q
+   ```
+   ```
+   Obs:
+   O projeto está na pasta 'Versions' em formato '.zip', possui a versão antes do deploy e depois do deploy na firebase
    (este ultimo e a versão corrigida, devido a um bug no menu causado pelo bootstrap@5.0.0-beta1, estou usando a mesma versão do professor).
    ```
    
