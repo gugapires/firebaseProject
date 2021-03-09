@@ -6,10 +6,10 @@ I. Basta acessar o seguinte endereço:
    ``` 
    https://todo-list-d6f78.web.app/login.html
    ```
-II. O projeto seguido pelo tutorial:
+II. Projeto conforme tutorial (YouTube):
    ```
-   Está na pasta versions em formato 'zip', possui a versão feita a partir do tutorial, antes do deploy e depois do deploy
-   (versão corrigida, devido bug no menu do bootstrap@5.0.0-beta1, estou usando a mesma versão do professor).
+   Está na pasta 'Versions' em formato '.zip', possui a versão antes do deploy e depois do deploy na firebase
+   (este ultimo e a versão corrigida, devido a um bug no menu causado pelo bootstrap@5.0.0-beta1, estou usando a mesma versão do professor).
    ```
    
 III. Comandos importantes para iniciar projeto na Firebase: 
